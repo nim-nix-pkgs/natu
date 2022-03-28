@@ -11,6 +11,7 @@
   inputs.src-natu-0_1_1.ref   = "refs/tags/0.1.1";
   inputs.src-natu-0_1_1.owner = "exelotl";
   inputs.src-natu-0_1_1.repo  = "natu";
+  inputs.src-natu-0_1_1.dir   = "";
   inputs.src-natu-0_1_1.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:

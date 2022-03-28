@@ -11,6 +11,7 @@
   inputs.src-natu-master.ref   = "refs/heads/master";
   inputs.src-natu-master.owner = "exelotl";
   inputs.src-natu-master.repo  = "natu";
+  inputs.src-natu-master.dir   = "";
   inputs.src-natu-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
