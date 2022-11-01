@@ -136,11 +136,11 @@
       },
       "locked": {
         "dir": "0_1_3",
-        "lastModified": 1667330460,
-        "narHash": "sha256-OnetEnck70SA+/AcP+tt7RCf/2N5WKlhfAlCVU7nPE0=",
+        "lastModified": 1667335304,
+        "narHash": "sha256-+5/qF9qOd5lt/yMr/cBgcD+4eqG9W0amcc3XCfZSUvM=",
         "owner": "nim-nix-pkgs",
         "repo": "trick",
-        "rev": "18613f2efd85331dc5003d91f3d6fe2428619977",
+        "rev": "549ed87d967b3d2485222f39a3d3e1ab3d3d869d",
         "type": "github"
       },
       "original": {
