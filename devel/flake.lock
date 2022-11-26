@@ -301,11 +301,11 @@
       },
       "locked": {
         "dir": "0_1_4",
-        "lastModified": 1669431954,
-        "narHash": "sha256-pbvWc4h9/PiQ4XPnY82uNzz5GHwiGnAgqJGN3kXNLYo=",
+        "lastModified": 1669438780,
+        "narHash": "sha256-/YPgHZKk29gwNZdpNa7/I/RjiLGn4uJ+gtBzFzOPQfQ=",
         "owner": "nim-nix-pkgs",
         "repo": "trick",
-        "rev": "e966276e059a69e1464f8db722bedda2ce4e8965",
+        "rev": "b65239ff2573285487d545f6a1707c684299a8c3",
         "type": "github"
       },
       "original": {
